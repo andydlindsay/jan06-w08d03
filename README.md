@@ -1,12 +1,12 @@
 # W8D3 Next Steps
 
 ### To Do
-- [ ] `useRef`
-- [ ] Class Components
-- [ ] React Router
-- [ ] `useContext`
-- [ ] Styled Components
-- [ ] Component Libraries
+- [x] `useRef`
+- [x] Class Components
+- [x] React Router
+- [x] `useContext`
+- [x] Styled Components
+- [x] Component Libraries
 
 ### `useRef`
 * Allows us to programmatically make reference to an element
